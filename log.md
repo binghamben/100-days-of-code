@@ -2,20 +2,19 @@
 
 ### Day 1: 6/29/20
 
-**Today's Progress**: Continued on fCC Applied Visual Design with Colors
+**Today's Progress**: Continued fCC Applied Visual Design with Colors
 
-**Thoughts:** Working to develop more coding knowledge and skills for a potential career change. 
+**Thoughts:** Working to develop more coding knowledge and skills for a potential career change. Should watch a video explanation of complementary colors. 
 
 **Link to work:** https://twitter.com/BenBinghamWork/status/1277684727059709953
 
-### Day 2: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: 6/30/20
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished fCC Applied Visual Design
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Animations are cool! So much potential, hard to imagine tapping into all of the potential. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://twitter.com/BenBinghamWork/status/1278029620193959936
 
 
 ### Day 1: June 27, Monday
