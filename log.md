@@ -30,3 +30,11 @@ https://twitter.com/BenBinghamWork/status/1279131479986049027
 
 **Link(s) to work**
 https://twitter.com/BenBinghamWork/status/1281322976634384384
+
+
+### Day 5: 7/10/20
+
+**Today's Progress**: Finished the CSS FlexBox module on @freeCodeCamp for #100DaysOfCode Day 5. Need to play around with the whole FlexBox system more if I want to retain the details, but feel like I have the big idea down.
+
+**Link(s) to work**
+https://twitter.com/BenBinghamWork/status/1281677071836749826
